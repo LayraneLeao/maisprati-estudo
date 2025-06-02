@@ -1,2 +1,2 @@
 # maisprati-estudo
-Resumo de estudos realizados durante o curso Dev Full Stack da +praTi.
+Resumo dos conteúdos estudados no Módulo 01 do curso Dev Full Stack da +praTi.
